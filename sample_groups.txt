@@ -1,0 +1,14 @@
+sampleCluster	sampleName
+Le	151_Le
+Le	173_Le
+Le	279_Le
+Ob	294_Ob
+Ob	295_Ob
+Ob	75_Ob
+Ob	138_Ob
+Ob	65_Ob
+Ob	283_Ob
+IR	96_IR
+IR	132_IR
+IR	95_IR
+IR	126_IR
